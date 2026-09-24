@@ -41,7 +41,7 @@
 
 ### Windows 10/11 (x64)
 
-1. Скачай последний установщик со [страницы релизов](https://github.com/ТВОЙ_НИК/kalinka-launcher/releases/latest)
+1. Скачай последний установщик со [страницы релизов](https://github.com/nvstarikov/kalinka-launcher/releases/latest)
 2. Запусти `Kalinka Launcher_<версия>_x64-setup.exe`
 3. Следуй инструкциям мастера установки
 4. Лаунчер установится в `C:\CTAPGPADD` и создаст ярлык на рабочем столе
