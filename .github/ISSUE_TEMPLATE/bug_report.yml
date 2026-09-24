@@ -1,0 +1,71 @@
+name: 🐛 Баг-репорт
+description: Сообщить об ошибке в работе лаунчера
+title: "[BUG] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Спасибо, что сообщаешь об ошибке! Чем подробнее опишешь —
+        тем быстрее починим.
+
+  - type: input
+    id: version
+    attributes:
+      label: Версия лаунчера
+      description: Видна в футере окна лаунчера
+      placeholder: "1.0.9"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: Версия Windows
+      options:
+        - Windows 10
+        - Windows 11
+        - Другая (укажите в описании)
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Что случилось?
+      description: Опиши подробно, что ты делал и что пошло не так
+      placeholder: |
+        1. Открыл лаунчер
+        2. Нажал «Скачать» у АнтиПирата
+        3. Прогресс дошёл до 50% и остановился
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Что ожидал увидеть?
+      placeholder: "Прогресс дошёл бы до 100% и началась установка"
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Логи
+      description: |
+        Открой `%APPDATA%\stargrad-launcher\logs\launcher.log`
+        и приложи последние 50–100 строк.
+      render: shell
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Проверки
+      options:
+        - label: Я проверил, что такого Issue ещё нет
+          required: true
+        - label: Я использую последнюю версию лаунчера
+          required: true
