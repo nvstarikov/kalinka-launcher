@@ -6,7 +6,7 @@
 
 ## 🐛 Сообщить об ошибке
 
-1. Проверь, нет ли уже [открытого Issue](https://github.com/ТВОЙ_НИК/kalinka-launcher/issues)
+1. Проверь, нет ли уже [открытого Issue](https://github.com/nvstarikov/kalinka-launcher/issues)
 2. Если нет — создай новый через шаблон **🐛 Баг-репорт**
 3. Опиши подробно:
    - Что делал (шаги)
@@ -41,7 +41,7 @@
 
 Лаунчер сейчас поддерживает **русский** и **английский**.
 
-Хочешь добавить свой язык? Напиши в [Discussions](https://github.com/ТВОЙ_НИК/kalinka-launcher/discussions)
+Хочешь добавить свой язык? Напиши в [Discussions](https://github.com/nvstarikov/kalinka-launcher/discussions)
 — обсудим формат и сроки.
 
 ---
@@ -65,7 +65,7 @@
 
 ## 💬 Участвовать в обсуждениях
 
-Заходи в [Discussions](https://github.com/ТВОЙ_НИК/kalinka-launcher/discussions):
+Заходи в [Discussions](https://github.com/nvstarikov/kalinka-launcher/discussions):
 
 - **Ideas** — предложения и обсуждение фич
 - **Q&A** — вопросы и ответы
