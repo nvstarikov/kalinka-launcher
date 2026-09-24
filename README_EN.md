@@ -6,7 +6,7 @@
 
   <img src=".github/assets/logo.jpg" width="120" />
   <h1>Kalinka.Launcher</h1>
-  <p><b>The single entry point to the STARGRAD digital ecosystem</b></p>
+  <p><b>The single entry point to the STARGRADD digital ecosystem</b></p>
   <p>Download. Install. Launch. — all in one place.</p>
 
   [![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/nvstarikov/kalinka-launcher/releases/latest)
@@ -31,7 +31,7 @@
 
 | Feature | Description |
 |---------|-------------|
-| 🚀 **Unified catalog** | All STARGRAD products, cloud services and partner solutions in one window |
+| 🚀 **Unified catalog** | All STARGRADD products, cloud services and partner solutions in one window |
 | ⚡ **One-click install** | Download with progress and silent installation |
 | 🔄 **Auto-updates** | The launcher and its products update themselves |
 | 🔑 **License control** | Trial and activation status always visible |
@@ -104,7 +104,7 @@ We welcome any help! Ways to contribute:
 ## 📄 License
 
 **Kalinka.Launcher** is proprietary software.
-© 2026 STARGRAD. All rights reserved.
+© 2026 STARGRADD. All rights reserved.
 
 - ✅ Free use for personal, educational and non-commercial purposes
 - ✅ Distribution of the original installer without modifications
@@ -118,5 +118,5 @@ See [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
-  <sub>© 2026 STARGRAD · <a href="https://stargrd.ru">stargrd.ru</a></sub>
+  <sub>© 2026 STARGRADD · <a href="https://stargrd.ru">stargrd.ru</a></sub>
 </div>
