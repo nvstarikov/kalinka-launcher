@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/assets/logo.png" width="120" />
+  <img src=".github/assets/logo.jpg" width="120" />
   <h1>Калинка.Лаунчер</h1>
   <p><b>Единая точка входа в цифровую экосистему СТАРГРАДД</b></p>
   <p>Скачивай. Устанавливай. Запускай. — всё в одном месте.</p>
