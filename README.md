@@ -59,17 +59,9 @@
 <details>
 <summary>Показать все скриншоты</summary>
 
-### Экран входа
+### Рабочая область
 
-![Экран входа](.github/assets/screenshot-login.png)
-
-### Панель продукта
-
-![Панель продукта](.github/assets/screenshot-product.png)
-
-### Минимальная тема
-
-![Минимальная тема](.github/assets/screenshot-minimal.png)
+![Экран пользователя](.github/assets/launcher2.mp4)
 
 </details>
 
