@@ -19,7 +19,7 @@
 
 ---
 
-![Главный экран лаунчера](.github/assets/launcher2.gif)
+![Главный экран лаунчера](.github/assets/launcher1.gif)
 
 ---
 
@@ -61,7 +61,7 @@
 
 ### Рабочая область
 
-![Экран пользователя](.github/assets/launcher2.mp4)
+![Экран пользователя](.github/assets/launcher2.gif)
 
 </details>
 
