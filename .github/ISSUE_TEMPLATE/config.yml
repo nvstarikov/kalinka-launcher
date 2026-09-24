@@ -1,0 +1,13 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Задать вопрос
+    url: https://github.com/nvstarikov/kalinka-launcher/discussions/categories/q-a
+    about: Вопросы — в Discussions, а не в Issues
+
+  - name: 🌐 Официальный сайт
+    url: https://stargrd.ru
+    about: Документация, форум, продукты
+
+  - name: 🛡️ Сообщить об уязвимости
+    url: https://github.com/nvstarikov/kalinka-launcher/security/advisories/new
+    about: Приватный отчёт об уязвимости (не создавай публичный Issue)
