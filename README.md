@@ -6,7 +6,7 @@
   <p>Рассказывай про свои проекты или бизнес.</p>
   
   [![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/nvstarikov/kalinka-launcher/releases/latest)
-  [![Версия](https://img.shields.io/github/v/release/nvstarikov/kalinka-launcher?style=for-the-badge&color=00e5ff&label=версия)](https://github.com/nvstarikov/kalinka-launcher/releases/latest)
+  [![Версия](https://img.shields.io/github/v/release/nvstarikov/kalinka-launcher?style=for-the-badge&color=00e5ff&label=1.0.9)](https://github.com/nvstarikov/kalinka-launcher/releases/latest)
   [![Tauri](https://img.shields.io/badge/Tauri-2-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)](https://tauri.app)
   [![Лицензия](https://img.shields.io/badge/Лицензия-Проприетарная-red?style=for-the-badge)](LICENSE)
 
