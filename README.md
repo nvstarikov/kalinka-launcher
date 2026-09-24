@@ -1,4 +1,8 @@
 <div align="center">
+
+**🌐 Язык:** Русский · [English](README_EN.md)
+
+<br>
   <img src=".github/assets/logo.jpg" width="120" />
   <h1>Калинка.Лаунчер</h1>
   <p><b>Единая точка входа в цифровую экосистему СТАРГРАДД</b></p>
