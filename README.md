@@ -68,7 +68,7 @@
 | Десктоп-фреймворк | Tauri 2 |
 | Фронтенд | React 18 + TypeScript |
 | Бэкенд | Rust |
-| Стили | CSS (inline + переменные) |
+| Стили | Tailwind CSS |
 | Шрифты | Orbitron, JetBrains Mono |
 
 ---
