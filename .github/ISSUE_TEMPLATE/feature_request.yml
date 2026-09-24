@@ -1,0 +1,42 @@
+name: 💡 Предложение
+description: Предложить новую функцию или улучшение
+title: "[FEAT] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Спасибо за идею! Расскажи подробнее.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Какую задачу это решает?
+      description: Опиши проблему, которую хочешь решить
+      placeholder: "Сейчас нельзя запускать несколько продуктов одновременно..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Предлагаемое решение
+      placeholder: "Хотелось бы видеть кнопку..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Альтернативы
+      description: Какие ещё варианты решения ты рассматривал?
+    validations:
+      required: false
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Дополнительно
+      description: Скриншоты, скетчи, ссылки на похожие решения
+    validations:
+      required: false
