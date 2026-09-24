@@ -54,16 +54,10 @@
 
 ---
 
-## 🖼️ Скриншоты
-
-<details>
-<summary>Показать все скриншоты</summary>
-
 ### Рабочая область
 
 ![Экран пользователя](.github/assets/launcher2.gif)
 
-</details>
 
 ---
 
