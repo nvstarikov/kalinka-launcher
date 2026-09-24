@@ -19,7 +19,7 @@
 
 ---
 
-![Главный экран лаунчера](.github/assets/launcher1.gif)
+![Главный экран лаунчера](.github/assets/launcher2.gif)
 
 ---
 
